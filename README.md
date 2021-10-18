@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**knyghty/knyghty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tom. I write code, mostly in Python. I still don't understand SQL, even after over two decades of using it.
 
-Here are some ideas to get you started:
+#### Now 🕐
+- 🛠️ Lead develoer at [@scene-connect](https://github.com/scene-connect).
+- 🎸 [Django](https://github.com/django/django) contributor (sometimes).
+- 💼 I do freelance work, but not actively looking right now.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I spend too much time thinking about... 💭
+- 🌱 Fixing the climate and biodiversity crises.
+- 🦾 How simple web accessibility would be if developers didn't try to be so clever.
+- ⏱️ Web performance, and its impact on energy use.
+- 🔏 Cyberseurity's impact on society.
+- 🤔 Why fools and fanatics are so certain of themselves.
+
+[Would you like to know more?](https://carrick.eu)
