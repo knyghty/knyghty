@@ -4,7 +4,7 @@ I'm Tom. I write code, mostly in Python. I still don't understand SQL, even afte
 
 #### Now 🕐
 - 🛠️ Lead develoer at [@scene-connect](https://github.com/scene-connect).
-- 🎸 [Django](https://github.com/django/django) contributor (sometimes).
+- 🦄 [Django](https://github.com/django/django) contributor (sometimes).
 - 💼 I do freelance work, but not actively looking right now.
 
 #### I spend too much time thinking about... 💭
