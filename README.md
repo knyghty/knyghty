@@ -3,7 +3,7 @@
 I'm Tom. I write code, mostly in Python. I still don't understand SQL, even after over two decades of using it.
 
 #### Now 🕐
-- 🛠️ Lead develoer at [@scene-connect](https://github.com/scene-connect).
+- 🛠️ Lead developer at [@scene-connect](https://github.com/scene-connect).
 - 🦄 [Django](https://github.com/django/django) contributor (sometimes).
 - 💼 I do freelance work, but not actively looking right now.
 
