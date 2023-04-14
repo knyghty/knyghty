@@ -2,7 +2,7 @@
 
 I'm Tom. I write code, mostly in Python.
 
-Right now I'm an engineering manager at [@lightmatter](https://github.com/lightmatter).
+Right now I'm leading development at [@carbonequity](https://github.com/carbonequity).
 
 I also contribute to [Django](https://github.com/django/django) sometimes.
 
